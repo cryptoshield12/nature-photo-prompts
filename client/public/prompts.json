@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "prompt": "A majestic, solitary oak tree standing against a dramatic, golden hour sky in a wide-angle shot, captured with a deep depth of field, using a professional DSLR camera with a 16-35mm lens, f/16, ISO 100, and a polarizing filter for enhanced color and contrast. Professional camera settings."
+  },
+  {
+    "id": 2,
+    "prompt": "Close-up of a dew-covered spider web in a misty forest at dawn, utilizing macro photography techniques, with soft, diffused natural light, captured with a mirrorless camera and a 100mm macro lens, f/2.8, ISO 400, and a reflector to catch subtle highlights. Professional camera settings."
+  },
+  {
+    "id": 3,
+    "prompt": "A powerful, cascading waterfall in a lush, green canyon, using a long exposure (e.g., 1/2 second) to create a silky water effect, captured with a tripod-mounted full-frame camera and a neutral density (ND) filter, 24mm lens, f/11, ISO 50. Professional camera settings."
+  },
+  {
+    "id": 4,
+    "prompt": "A vibrant, orange-and-purple sunset over a calm, reflective lake, framed by dark silhouettes of pine trees, captured with a telephoto lens (e.g., 70-200mm) to compress the scene, f/8, ISO 200, and a graduated neutral density (GND) filter to balance the exposure. Professional camera settings."
+  },
+  {
+    "id": 5,
+    "prompt": "A detailed texture shot of weathered, cracked desert earth, emphasizing the arid patterns and harsh sunlight, captured with a medium format camera and a 50mm lens, f/18, ISO 100, focusing on hyper-detail and sharpness. Professional camera settings."
+  },
+  {
+    "id": 6,
+    "prompt": "A herd of wild horses galloping across an open, grassy plain under a stormy, dramatic sky, captured with a fast shutter speed (e.g., 1/1000 second) to freeze the motion, using a high-speed continuous shooting mode, 400mm lens, f/4, ISO 800. Professional camera settings."
+  },
+  {
+    "id": 7,
+    "prompt": "An intimate portrait of a rare, colorful bird perched on a mossy branch, with a shallow depth of field to blur the background (bokeh effect), captured with a high-quality prime lens (e.g., 300mm f/2.8), f/2.8, ISO 640. Professional camera settings."
+  },
+  {
+    "id": 8,
+    "prompt": "The Milky Way galaxy arching over a rugged mountain peak on a clear, moonless night, utilizing astrophotography techniques with a very long exposure (e.g., 30 seconds), captured with a wide-angle lens (e.g., 14mm), f/2.8, high ISO (e.g., 3200), and a star tracker. Professional camera settings."
+  },
+  {
+    "id": 9,
+    "prompt": "A field of sunflowers stretching to the horizon under a bright, midday sun, captured from a low angle to emphasize the height of the flowers, using a wide-angle lens, f/14, ISO 100, with a circular polarizer to deepen the blue sky. Professional camera settings."
+  },
+  {
+    "id": 10,
+    "prompt": "The delicate structure of a single, freshly bloomed wildflower, backlit by the morning sun, creating a glowing outline, captured with a macro lens, f/4, ISO 200, using a flash with a softbox for fill light. Professional camera settings."
+  },
+  {
+    "id": 11,
+    "prompt": "A winding river cutting through a snow-covered forest, captured from an elevated viewpoint (drone shot simulation), emphasizing the S-curve composition, with a 50mm lens, f/8, ISO 100, and a UV filter for protection. Professional camera settings."
+  },
+  {
+    "id": 12,
+    "prompt": "A close-up of a chameleon blending into a textured tree bark, highlighting the camouflage and skin detail, captured with a macro lens, f/5.6, ISO 400, using a ring flash for even, shadowless illumination. Professional camera settings."
+  },
+  {
+    "id": 13,
+    "prompt": "A powerful ocean wave crashing against a rocky coastline, captured with a moderate shutter speed (e.g., 1/100 second) to show motion blur in the spray, 35mm lens, f/16, ISO 200, with a fast burst mode. Professional camera settings."
+  },
+  {
+    "id": 14,
+    "prompt": "A misty, atmospheric view of ancient ruins partially overgrown with vines in a rainforest, captured with a soft focus effect, 50mm lens, f/4, ISO 400, utilizing the natural soft light of the fog. Professional camera settings."
+  },
+  {
+    "id": 15,
+    "prompt": "A dramatic lightning strike illuminating a dark, desert landscape during a monsoon, captured with a lightning trigger device, long exposure (e.g., 15 seconds), 28mm lens, f/8, ISO 400. Professional camera settings."
+  },
+  {
+    "id": 16,
+    "prompt": "A macro shot of a ladybug on a green leaf, emphasizing the vibrant red and black colors, with a perfectly sharp focus on the insect's eyes, f/11, ISO 100, focus stacking technique for maximum depth of field. Professional camera settings."
+  },
+  {
+    "id": 17,
+    "prompt": "A panoramic view of a vast canyon at sunrise, with warm light hitting the rock faces, captured by stitching multiple vertical shots (vertorama), 24mm lens, f/11, ISO 100, and a remote shutter release. Professional camera settings."
+  },
+  {
+    "id": 18,
+    "prompt": "A playful otter emerging from a crystal-clear river, captured at eye level with a fast shutter speed (e.g., 1/800 second), 300mm lens, f/5.6, ISO 640, with a camouflage blind for observation. Professional camera settings."
+  },
+  {
+    "id": 19,
+    "prompt": "The intricate pattern of a frozen leaf encased in ice, captured with a macro lens, f/16, ISO 200, using a small LED panel for precise, cold-toned lighting. Professional camera settings."
+  },
+  {
+    "id": 20,
+    "prompt": "A volcanic landscape with steam vents and colorful mineral deposits, captured under harsh, high-contrast light, 20mm lens, f/14, ISO 100, with a lens hood to prevent flare. Professional camera settings."
+  },
+  {
+    "id": 21,
+    "prompt": "A lone polar bear traversing a vast, white arctic expanse, emphasizing the scale and isolation, captured with a long telephoto lens (e.g., 600mm), f/6.3, ISO 1000, using image stabilization. Professional camera settings."
+  },
+  {
+    "id": 22,
+    "prompt": "A forest floor covered in vibrant autumn leaves, captured from a very low perspective, emphasizing the texture and color saturation, 35mm lens, f/8, ISO 200, with a polarizing filter. Professional camera settings."
+  },
+  {
+    "id": 23,
+    "prompt": "A bioluminescent mushroom cluster glowing in a dark, damp forest, utilizing a very long exposure (e.g., 5 minutes) in complete darkness, macro lens, f/4, ISO 800. Professional camera settings."
+  },
+  {
+    "id": 24,
+    "prompt": "A majestic eagle soaring high above a mountain range, captured with a fast shutter speed and continuous autofocus tracking, 500mm lens, f/5.6, ISO 800. Professional camera settings."
+  },
+  {
+    "id": 25,
+    "prompt": "The reflection of a clear, starry night in a still mountain pond, captured with a wide-angle lens, f/4, ISO 1600, using a 15-second exposure. Professional camera settings."
+  },
+  {
+    "id": 26,
+    "prompt": "A close-up of a honeycomb with bees at work, highlighting the geometric perfection and the golden honey, macro lens, f/14, ISO 200, with external flash and diffuser. Professional camera settings."
+  },
+  {
+    "id": 27,
+    "prompt": "A powerful dust devil swirling across a dry, flat plain, captured with a fast shutter speed to freeze the motion, 70mm lens, f/11, ISO 400. Professional camera settings."
+  },
+  {
+    "id": 28,
+    "prompt": "A vibrant coral reef teeming with colorful fish, captured using underwater photography equipment, wide-angle lens, f/8, ISO 400, with external strobes for color correction. Professional camera settings."
+  },
+  {
+    "id": 29,
+    "prompt": "A single, perfectly formed snow crystal (snowflake) on a dark wool glove, captured with extreme macro magnification, focus stacking, f/22, ISO 100, in a controlled, cold environment. Professional camera settings."
+  },
+  {
+    "id": 30,
+    "prompt": "A dramatic, foggy morning in a redwood forest, with sun rays piercing through the canopy, emphasizing the height of the trees, 24mm lens, f/11, ISO 100, using a tripod. Professional camera settings."
+  },
+  {
+    "id": 31,
+    "prompt": "A curious fox peering out from a dense thicket of ferns, captured with a telephoto lens and a shallow depth of field, f/4, ISO 800, at eye level. Professional camera settings."
+  },
+  {
+    "id": 32,
+    "prompt": "The abstract patterns of sand dunes sculpted by the wind, captured in black and white to emphasize form and texture, 85mm lens, f/16, ISO 100, under harsh overhead sun. Professional camera settings."
+  },
+  {
+    "id": 33,
+    "prompt": "A long exposure shot of fireflies creating light trails in a dark summer field, captured with a wide-angle lens, f/4, ISO 800, with a 60-second exposure. Professional camera settings."
+  },
+  {
+    "id": 34,
+    "prompt": "A close-up of a chameleon's eye, showing the intricate details and independent movement, extreme macro, f/8, ISO 200, with a small spotlight. Professional camera settings."
+  },
+  {
+    "id": 35,
+    "prompt": "A double rainbow over a rolling green landscape after a summer storm, captured with a wide-angle lens, f/11, ISO 100, with a polarizing filter to enhance the rainbow's visibility. Professional camera settings."
+  },
+  {
+    "id": 36,
+    "prompt": "A high-speed photograph of a hummingbird hovering at a flower, captured with a multi-flash setup and a very fast shutter speed (e.g., 1/4000 second), 200mm lens, f/8, ISO 400. Professional camera settings."
+  },
+  {
+    "id": 37,
+    "prompt": "A serene, minimalist shot of a single rock in a vast, calm, misty sea, emphasizing negative space and atmosphere, 50mm lens, f/5.6, ISO 200. Professional camera settings."
+  },
+  {
+    "id": 38,
+    "prompt": "A macro shot of a drop of water on a petal, acting as a tiny lens, capturing the inverted image of the background, f/16, ISO 100, using a syringe to place the drop. Professional camera settings."
+  },
+  {
+    "id": 39,
+    "prompt": "A spectacular aurora borealis (Northern Lights) over a frozen lake, captured with a wide-angle lens, f/2.8, ISO 3200, 15-second exposure, with a foreground element for scale. Professional camera settings."
+  },
+  {
+    "id": 40,
+    "prompt": "A wild brown bear fishing in a river, captured with a telephoto lens, fast shutter speed (e.g., 1/500 second), f/5.6, ISO 800, from a safe distance. Professional camera settings."
+  },
+  {
+    "id": 41,
+    "prompt": "The intricate root system of a massive, ancient tree, captured from a low, dramatic angle, emphasizing the scale and age, 28mm lens, f/14, ISO 100. Professional camera settings."
+  },
+  {
+    "id": 42,
+    "prompt": "A close-up of a butterfly wing, showing the delicate scales and patterns, captured with a macro lens and focus stacking, f/11, ISO 100, with diffused light. Professional camera settings."
+  },
+  {
+    "id": 43,
+    "prompt": "A stunning view of a deep blue glacial ice cave, emphasizing the texture and color of the ice, captured with a wide-angle lens, f/8, ISO 400, using a headlamp for internal illumination. Professional camera settings."
+  },
+  {
+    "id": 44,
+    "prompt": "A playful group of dolphins leaping out of the ocean at sunset, captured with a fast shutter speed, 200mm lens, f/8, ISO 400. Professional camera settings."
+  },
+  {
+    "id": 45,
+    "prompt": "A long exposure of a starry sky with star trails, achieved by stacking multiple long-exposure images, 16mm lens, f/4, ISO 800, with a total exposure time of 1 hour. Professional camera settings."
+  },
+  {
+    "id": 46,
+    "prompt": "A detailed shot of a mushroom growing on a decaying log in a dark forest, captured with a macro lens, f/5.6, ISO 400, using a snoot-equipped flash for selective lighting. Professional camera settings."
+  },
+  {
+    "id": 47,
+    "prompt": "A panoramic view of a desert night sky with a meteor shower, captured with a wide-angle lens, f/2.8, ISO 3200, 20-second exposure, with a foreground tent for scale. Professional camera settings."
+  },
+  {
+    "id": 48,
+    "prompt": "A close-up of a tiger's eye, emphasizing the intensity and detail of the iris, captured with a telephoto lens and a fast shutter speed, f/4, ISO 640. Professional camera settings."
+  },
+  {
+    "id": 49,
+    "prompt": "A serene, foggy morning view of a traditional Japanese garden with a stone lantern, emphasizing the tranquility and composition, 50mm lens, f/8, ISO 100. Professional camera settings."
+  },
+  {
+    "id": 50,
+    "prompt": "A vibrant, abstract pattern of a peacock's tail feathers, captured with a macro lens, focusing on the \"eye\" spot, f/11, ISO 200, with even, bright lighting. Professional camera settings."
+  }
+]
